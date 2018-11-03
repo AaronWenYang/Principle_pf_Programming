@@ -1,0 +1,22 @@
+INSTUPacademic_standing_form
+E:\Aaron学习\研究生\COMP9021 Principle of Programming\lectures\lecture2\academic_standing_form.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|5|2|0&&3|6|2|0&&3|7|2|0&&3|8|2|0&&3|9|2|0&&3|10|2|0&&3|11|2|0&&3|12|2|0&&3|13|2|0&&3|14|2|0&&3|14|2|0&&3|15|2|0&&3|16|2|0&&3|17|2|0&&3|18|2|0&&3|19|2|0
+date=13
+student_id_field=18
+semester_and_year=14
+student_id=6
+academic_standing_form=2
+program=10
+given_names=9
+program_authority_name=1
+sleeping_time=3
+program_authority_name_field=19
+original_pdf=16
+submission_date=15
+new_pdf=17
+student_number=5
+academic_standing_level=12
+original_form_name=4
+phone_number=11
+form_name=7
+family_name=8

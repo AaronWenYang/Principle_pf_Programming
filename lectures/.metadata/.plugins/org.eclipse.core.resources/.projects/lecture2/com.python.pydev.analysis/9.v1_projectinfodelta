@@ -1,0 +1,15 @@
+INSTUPthree_special_perfect_squares
+E:\Aaron学习\研究生\COMP9021 Principle of Programming\lectures\lecture2\three_special_perfect_squares.py
+INFOS:&&2|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|6|2|0&&3|7|2|0&&3|8|2|0&&3|9|2|0&&3|10|2|0&&3|11|2|0&&3|12|2|0
+max_square=3
+digits_in_x_square_and_y_square_and_z_square_and_0=12
+set_of_all_digits=6
+y_square=9
+z_square=11
+three_special_perfect_squares=2
+upper_bound=5
+nb_of_solutions=4
+x_square=7
+digits_in_x_square_and_0=8
+digits_in_x_square_and_y_square_and_0=10
+digits_if_ok=1
